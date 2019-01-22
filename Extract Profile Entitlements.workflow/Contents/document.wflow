@@ -168,7 +168,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:296.000000</string>
+				<string>337.500000:296.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Filter Finder Items 2.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -227,9 +227,12 @@
 					<string>for f in "$@"
 do
 	TEMP=$( mktemp -d )
-	OUTPUT="$(dirname "$f" )/$( basename "$f" .ipa )-profile-entitlements.plist"
+	OUTPUT_FILE="$( basename "$f" .ipa )-profile-entitlements.plist"
+	OUTPUT_PATH="$(dirname "$f" )/${OUTPUT_FILE}"
+	TEMP_OUTPUT_PATH="$TEMP/$OUTPUT_FILE"
 	unzip "$f" -d "$TEMP"
-	security cms -D -i "${TEMP}"/Payload/*.app/embedded.mobileprovision &gt; "$OUTPUT"
+	security cms -D -i "${TEMP}"/Payload/*.app/embedded.mobileprovision &gt; "$TEMP_OUTPUT_PATH"
+	/usr/libexec/PlistBuddy -x -c "Print Entitlements" "$TEMP_OUTPUT_PATH" &gt; "$OUTPUT_PATH"
 	rm -rf "$TEMP"
 done</string>
 					<key>CheckedForUserDefaultShell</key>
@@ -344,7 +347,7 @@ done</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:478.000000</string>
+				<string>337.500000:478.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -354,7 +357,7 @@ done</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>72A49CBA-A0AC-4A0C-9DC5-40223E53CB28</key>
+		<key>91AFFEC6-A1EF-43D7-8DE7-E2B77D9DCCC7</key>
 		<dict>
 			<key>from</key>
 			<string>97033B5A-5A99-4C95-8FF4-E87ABC0A42CF - 97033B5A-5A99-4C95-8FF4-E87ABC0A42CF</string>
