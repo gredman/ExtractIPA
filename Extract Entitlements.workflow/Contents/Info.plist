@@ -12,7 +12,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Extract App Entitlements</string>
+				<string>Extract Entitlements</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>

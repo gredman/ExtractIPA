@@ -18,171 +18,6 @@
 					<key>Container</key>
 					<string>List</string>
 					<key>Optional</key>
-					<false/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>2.1.1</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>itemType</key>
-					<dict/>
-					<key>predicate</key>
-					<dict/>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMRequiredResources</key>
-				<array/>
-				<key>AMSelectedInputType</key>
-				<string>com.apple.cocoa.path</string>
-				<key>AMSelectedOutputType</key>
-				<string>com.apple.cocoa.path</string>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Filter Finder Items 2.action</string>
-				<key>ActionName</key>
-				<string>Filter Finder Items</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>itemType</key>
-					<string>com.apple.cocoa.path</string>
-					<key>predicate</key>
-					<data>
-					YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25Y
-					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
-					oK8QFgcIDxQcJicpMDQ5Oj1BRUpLTlVbX2FV
-					JG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFBy
-					ZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0
-					ZXNWJGNsYXNzEAGAAoAV0hALERNaTlMub2Jq
-					ZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmln
-					aHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVz
-					c2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KA
-					E4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFu
-					ZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVz
-					c2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOA
-					CIANXHZhbHVlRm9yS2V5OtIfCwwogAfSKiss
-					LVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNT
-					ZWxmRXhwcmVzc2lvbqMsLi9cTlNFeHByZXNz
-					aW9uWE5TT2JqZWN00hALMTOhMoAJgAzTCx81
-					Njc4WU5TS2V5UGF0aIALEAqAClRuYW1l0ior
-					OzxfEBxOU0tleVBhdGhTcGVjaWZpZXJFeHBy
-					ZXNzaW9uozsuL9IqKz4/Xk5TTXV0YWJsZUFy
-					cmF5oz5AL1dOU0FycmF50iorQkNfEBNOU0tl
-					eVBhdGhFeHByZXNzaW9upEJELi9fEBROU0Z1
-					bmN0aW9uRXhwcmVzc2lvbtNGHwtHSElfEA9O
-					U0NvbnN0YW50VmFsdWWADxAAgBBULmlwYdIq
-					K0xNXxAZTlNDb25zdGFudFZhbHVlRXhwcmVz
-					c2lvbqNMLi/VC09QUVJTSCMMVFpOU01vZGlm
-					aWVyV05TRmxhZ3NaTlNQb3NpdGlvbl5OU09w
-					ZXJhdG9yVHlwZYASEAnSKitWV18QHE5TU3Vi
-					c3RyaW5nUHJlZGljYXRlT3BlcmF0b3KkWFla
-					L18QHE5TU3Vic3RyaW5nUHJlZGljYXRlT3Bl
-					cmF0b3JfEBlOU1N0cmluZ1ByZWRpY2F0ZU9w
-					ZXJhdG9yXxATTlNQcmVkaWNhdGVPcGVyYXRv
-					ctIqK1xdXxAVTlNDb21wYXJpc29uUHJlZGlj
-					YXRlo1xeL1tOU1ByZWRpY2F0ZdIqK0BgokAv
-					0iorYmNfEBNOU0NvbXBvdW5kUHJlZGljYXRl
-					o2JeL18QD05TS2V5ZWRBcmNoaXZlctFmZ1Ry
-					b290gAEACAARABoAIwAtADIANwBQAFYAXQB3
-					AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA
-					8gD0APYA+AD6AQUBDwEeATEBPQE/AUEBQwFF
-					AUcBVAFZAVsBYAFrAXQBhwGLAZgBoQGmAagB
-					qgGsAbMBvQG/AcEBwwHIAc0B7AHwAfUCBAII
-					AhACFQIrAjACRwJOAmACYgJkAmYCawJwAowC
-					kAKbAqYCrgK5AsgCygLMAtEC8AL1AxQDMANG
-					A0sDYwNnA3MDeAN7A4ADlgOaA6wDrwO0AAAA
-					AAAAAgEAAAAAAAAAaAAAAAAAAAAAAAAAAAAA
-					A7Y=
-					</data>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.FilterFinderItems2</string>
-				<key>CFBundleVersion</key>
-				<string>2.1.1</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryFilesAndFolders</string>
-				</array>
-				<key>Class Name</key>
-				<string>Filter_Finder_Items_2</string>
-				<key>InputUUID</key>
-				<string>DDACA869-FFB3-4D57-953B-62B8743EBEC0</string>
-				<key>Keywords</key>
-				<array/>
-				<key>OutputUUID</key>
-				<string>8782B8B3-B9D4-467A-A51F-7C1F8C85CE88</string>
-				<key>UUID</key>
-				<string>97033B5A-5A99-4C95-8FF4-E87ABC0A42CF</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string>com.apple.cocoa.path</string>
-						<key>name</key>
-						<string>itemType</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<data>
-						</data>
-						<key>name</key>
-						<string>predicate</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>309.000000:296.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Filter Finder Items 2.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
 					<true/>
 					<key>Types</key>
 					<array>
@@ -224,12 +59,25 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>for f in "$@"
+					<string>extract_app_entitlements() {
+  APP_ENTITLEMENTS_OUTPUT_PATH="$(dirname "$IPA_PATH" )/$( basename "$IPA_PATH" .ipa )-app-entitlements.plist"
+  codesign -d --entitlements :- "${TEMP}"/Payload/*.app &gt; "$APP_ENTITLEMENTS_OUTPUT_PATH"
+}
+
+extract_profile_entitlements() {
+  PROFILE_ENTITLEMENTS_OUTPUT_FILE="$( basename "$IPA_PATH" .ipa )-profile-entitlements.plist"
+  PROFILE_ENTITLEMENTS_OUTPUT_PATH="$(dirname "$IPA_PATH" )/${PROFILE_ENTITLEMENTS_OUTPUT_FILE}"
+  TEMP_PROFILE_ENTITLEMENTS_OUTPUT_PATH="$TEMP/$PROFILE_ENTITLEMENTS_OUTPUT_FILE"
+  security cms -D -i "${TEMP}"/Payload/*.app/embedded.mobileprovision &gt; "$TEMP_PROFILE_ENTITLEMENTS_OUTPUT_PATH"
+  /usr/libexec/PlistBuddy -x -c "Print Entitlements" "$TEMP_PROFILE_ENTITLEMENTS_OUTPUT_PATH" &gt; "$PROFILE_ENTITLEMENTS_OUTPUT_PATH"
+}
+
+for IPA_PATH in "$@"
 do
 	TEMP=$( mktemp -d )
-	OUTPUT="$(dirname "$f" )/$( basename "$f" .ipa )-app-entitlements.plist"
-	unzip "$f" -d "$TEMP"
-	codesign -d --entitlements :- "${TEMP}"/Payload/*.app &gt; "$OUTPUT"
+	unzip "$IPA_PATH" -d "$TEMP"
+  extract_app_entitlements
+  extract_profile_entitlements
 	rm -rf "$TEMP"
 done</string>
 					<key>CheckedForUserDefaultShell</key>
@@ -256,7 +104,7 @@ done</string>
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>126904CE-265F-4A06-8EA1-7F754A128E95</string>
+				<string>6359106E-907C-4C10-BCC9-FDB0505C69C4</string>
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
@@ -266,9 +114,9 @@ done</string>
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>3A30FF35-B12E-4F1C-A489-894F04A44057</string>
+				<string>DB6DE11C-93CC-46DB-BC96-4A6220BBE6E2</string>
 				<key>UUID</key>
-				<string>366C756C-9715-41DD-A8CF-A87A2D1BFC83</string>
+				<string>E7786DF4-686A-46CB-879A-E2C317A9A3BD</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -341,10 +189,12 @@ done</string>
 						<string>4</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:478.000000</string>
+				<string>337.500000:305.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -353,15 +203,7 @@ done</string>
 		</dict>
 	</array>
 	<key>connectors</key>
-	<dict>
-		<key>5E19A36B-3EE9-4E4B-A14D-F801B21096C7</key>
-		<dict>
-			<key>from</key>
-			<string>97033B5A-5A99-4C95-8FF4-E87ABC0A42CF - 97033B5A-5A99-4C95-8FF4-E87ABC0A42CF</string>
-			<key>to</key>
-			<string>366C756C-9715-41DD-A8CF-A87A2D1BFC83 - 366C756C-9715-41DD-A8CF-A87A2D1BFC83</string>
-		</dict>
-	</dict>
+	<dict/>
 	<key>workflowMetaData</key>
 	<dict>
 		<key>applicationBundleID</key>
