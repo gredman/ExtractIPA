@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.39</string>
+	<string>490</string>
 	<key>AMApplicationVersion</key>
-	<string>2.9</string>
+	<string>2.10</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -62,51 +62,49 @@
 					<string>com.apple.cocoa.path</string>
 					<key>predicate</key>
 					<data>
-					YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25Y
-					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
-					oK8QFgcIDxQcJicpMDQ5Oj1BRUpLTlVbX2FV
-					JG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFBy
-					ZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0
-					ZXNWJGNsYXNzEAGAAoAV0hALERNaTlMub2Jq
-					ZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmln
-					aHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVz
-					c2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KA
-					E4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFu
-					ZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVz
-					c2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOA
-					CIANXHZhbHVlRm9yS2V5OtIfCwwogAfSKiss
-					LVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNT
-					ZWxmRXhwcmVzc2lvbqMsLi9cTlNFeHByZXNz
-					aW9uWE5TT2JqZWN00hALMTOhMoAJgAzTCx81
-					Njc4WU5TS2V5UGF0aIALEAqAClRuYW1l0ior
-					OzxfEBxOU0tleVBhdGhTcGVjaWZpZXJFeHBy
-					ZXNzaW9uozsuL9IqKz4/Xk5TTXV0YWJsZUFy
-					cmF5oz5AL1dOU0FycmF50iorQkNfEBNOU0tl
-					eVBhdGhFeHByZXNzaW9upEJELi9fEBROU0Z1
-					bmN0aW9uRXhwcmVzc2lvbtNGHwtHSElfEA9O
-					U0NvbnN0YW50VmFsdWWADxAAgBBULmlwYdIq
-					K0xNXxAZTlNDb25zdGFudFZhbHVlRXhwcmVz
-					c2lvbqNMLi/VC09QUVJTSCMMVFpOU01vZGlm
-					aWVyV05TRmxhZ3NaTlNQb3NpdGlvbl5OU09w
-					ZXJhdG9yVHlwZYASEAnSKitWV18QHE5TU3Vi
-					c3RyaW5nUHJlZGljYXRlT3BlcmF0b3KkWFla
-					L18QHE5TU3Vic3RyaW5nUHJlZGljYXRlT3Bl
-					cmF0b3JfEBlOU1N0cmluZ1ByZWRpY2F0ZU9w
-					ZXJhdG9yXxATTlNQcmVkaWNhdGVPcGVyYXRv
-					ctIqK1xdXxAVTlNDb21wYXJpc29uUHJlZGlj
-					YXRlo1xeL1tOU1ByZWRpY2F0ZdIqK0BgokAv
-					0iorYmNfEBNOU0NvbXBvdW5kUHJlZGljYXRl
-					o2JeL18QD05TS2V5ZWRBcmNoaXZlctFmZ1Ry
-					b290gAEACAARABoAIwAtADIANwBQAFYAXQB3
-					AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA
-					8gD0APYA+AD6AQUBDwEeATEBPQE/AUEBQwFF
-					AUcBVAFZAVsBYAFrAXQBhwGLAZgBoQGmAagB
-					qgGsAbMBvQG/AcEBwwHIAc0B7AHwAfUCBAII
-					AhACFQIrAjACRwJOAmACYgJkAmYCawJwAowC
-					kAKbAqYCrgK5AsgCygLMAtEC8AL1AxQDMANG
-					A0sDYwNnA3MDeAN7A4ADlgOaA6wDrwO0AAAA
-					AAAAAgEAAAAAAAAAaAAAAAAAAAAAAAAAAAAA
-					A7Y=
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGvEBYLDBMYICorLTQ4PT5BRUlOT1JaXmJk
+					VSRudWxs0w0ODxAREl8QF05TQ29tcG91bmRQ
+					cmVkaWNhdGVUeXBlXxAPTlNTdWJwcmVkaWNh
+					dGVzViRjbGFzcxABgAKAFdIUDxUXWk5TLm9i
+					amVjdHOhFoADgBTUDxkaGxwdHh9fEBFOU1Jp
+					Z2h0RXhwcmVzc2lvbl8QEE5TTGVmdEV4cHJl
+					c3Npb25fEBNOU1ByZWRpY2F0ZU9wZXJhdG9y
+					gBOADoAEgBHVISIjJA8lJicoKVlOU09wZXJh
+					bmReTlNTZWxlY3Rvck5hbWVfEBBOU0V4cHJl
+					c3Npb25UeXBlW05TQXJndW1lbnRzgAaABRAD
+					gAiADVx2YWx1ZUZvcktleTrSIw8QLIAH0i4v
+					MDFaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5T
+					U2VsZkV4cHJlc3Npb26jMDIzXE5TRXhwcmVz
+					c2lvblhOU09iamVjdNIUDzU3oTaACYAM0w8j
+					OTo7PFlOU0tleVBhdGiACxAKgApdZmlsZUV4
+					dGVuc2lvbtIuLz9AXxAcTlNLZXlQYXRoU3Bl
+					Y2lmaWVyRXhwcmVzc2lvbqM/MjPSLi9CQ15O
+					U011dGFibGVBcnJheaNCRDNXTlNBcnJhedIu
+					L0ZHXxATTlNLZXlQYXRoRXhwcmVzc2lvbqRG
+					SDIzXxAUTlNGdW5jdGlvbkV4cHJlc3Npb27T
+					SiMPS0xNXxAPTlNDb25zdGFudFZhbHVlgA8Q
+					AIAQU2lwYdIuL1BRXxAZTlNDb25zdGFudFZh
+					bHVlRXhwcmVzc2lvbqNQMjPVD1NUVVZXTFgn
+					WVpOU01vZGlmaWVyWE5TTmVnYXRlWU5TT3B0
+					aW9uc15OU09wZXJhdG9yVHlwZYASCBAE0i4v
+					W1xfEBtOU0VxdWFsaXR5UHJlZGljYXRlT3Bl
+					cmF0b3KjW10zXxATTlNQcmVkaWNhdGVPcGVy
+					YXRvctIuL19gXxAVTlNDb21wYXJpc29uUHJl
+					ZGljYXRlo19hM1tOU1ByZWRpY2F0ZdIuL0Rj
+					okQz0i4vZWZfEBNOU0NvbXBvdW5kUHJlZGlj
+					YXRlo2VhMwAIABEAGgAkACkAMgA3AEkATABR
+					AFMAbAByAHkAkwClAKwArgCwALIAtwDCAMQA
+					xgDIANEA5QD4AQ4BEAESARQBFgEhASsBOgFN
+					AVkBWwFdAV8BYQFjAXABdQF3AXwBhwGQAaMB
+					pwG0Ab0BwgHEAcYByAHPAdkB2wHdAd8B7QHy
+					AhECFQIaAikCLQI1AjoCUAJVAmwCcwKFAocC
+					iQKLAo8ClAKwArQCvwLKAtMC3QLsAu4C7wLx
+					AvYDFAMYAy4DMwNLA08DWwNgA2MDaAN+AAAA
+					AAAAAgEAAAAAAAAAZwAAAAAAAAAAAAAAAAAA
+					A4I=
 					</data>
 				</dict>
 				<key>BundleIdentifier</key>
@@ -165,12 +163,10 @@
 						<string>1</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:296.000000</string>
+				<string>573.000000:296.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Filter Finder Items 2.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -293,9 +289,9 @@ done</string>
 					<key>1</key>
 					<dict>
 						<key>default value</key>
-						<string></string>
+						<false/>
 						<key>name</key>
-						<string>source</string>
+						<string>CheckedForUserDefaultShell</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -306,9 +302,9 @@ done</string>
 					<key>2</key>
 					<dict>
 						<key>default value</key>
-						<false/>
+						<string></string>
 						<key>name</key>
-						<string>CheckedForUserDefaultShell</string>
+						<string>source</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -343,12 +339,10 @@ done</string>
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:658.000000</string>
+				<string>573.000000:478.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -358,7 +352,7 @@ done</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>1EFFED8F-AB25-49BF-A56B-829D0FB875B1</key>
+		<key>30BAC8D9-D5F5-455E-BFFA-2D11D7E22195</key>
 		<dict>
 			<key>from</key>
 			<string>97033B5A-5A99-4C95-8FF4-E87ABC0A42CF - 97033B5A-5A99-4C95-8FF4-E87ABC0A42CF</string>
